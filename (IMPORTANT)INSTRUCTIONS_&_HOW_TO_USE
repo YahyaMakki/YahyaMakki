@@ -1,0 +1,10 @@
+PLEASE FOLLOW THE STEPS LISTED BELLOW!
+
+1. Download Office 365 from (office365setup.exe).
+NOTE: Make sure you have a good internet connection.
+
+2. Activate office 365 from (365 activator.txt) by copying the command.
+NOTE: Make sure to paste this command in "Powershell" and not in "Command Prompt".
+
+3. To activate the new UI run the (OfficeNewUi.reg) as administrator.
+NOTE: If you have the new UI don't run this command.
